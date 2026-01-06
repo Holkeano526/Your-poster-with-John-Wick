@@ -1,0 +1,7 @@
+{
+  "name": "Wick Studio - Cinematic Poster Creator",
+  "description": "Create high-end theatrical posters in the style of John Wick: Chapter 4. Upload your photo to stand alongside John Wick in a serene, cinematic Paris dawn scene.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
